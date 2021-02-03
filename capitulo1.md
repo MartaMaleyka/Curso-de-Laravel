@@ -45,3 +45,14 @@ El sistema de migración de Laravel ayuda a expandir la estructura de la base de
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/migraciones.jpg)
 
+## Ventajas
+
+- Adoptando las últimas funciones de php
+- Gran documentación
+- Ayuda a respaldar los backends de caché destacados
+- Ciclo de desarrollo más rápido
+- Mvc
+- Enrutamiento inverso
+- Gestión de colas
+- Se integra con los servicios de correo
+Una abundancia de paquetes y recursos
