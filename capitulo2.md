@@ -47,3 +47,8 @@ Independientemente de la herramienta que elijas, el proceso de instalación de e
 Composer es una herramienta para la gestión de dependencias en PHP. Le permite declarar las bibliotecas de las que depende su proyecto y las administrará (instalará / actualizará) por usted.
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W8DC1oi-lqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Crear primer Proyecto en Laravel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ubzp0bEld-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
