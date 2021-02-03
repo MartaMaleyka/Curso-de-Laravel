@@ -35,3 +35,13 @@ Laravel ofrece Eloquent Object Relational Mapping (ORM) que incluye una implemen
 
 ### Artisan
 El framework Laravel ofrece una herramienta de línea de comandos incorporada llamada Artisan que ayuda a automatizar la mayoría de las tediosas tareas de programación repetitivas. Estos artesanos también se pueden utilizar para crear la estructura de la base de datos, un código esqueleto y administrar la migración, por lo que es un sistema de base de datos bastante fácil de administrar. Además, puede generar archivos MVC básicos a través de la línea de comandos y administrar esos activos, así como sus respectivas configuraciones. Artisan incluso ayuda a los desarrolladores a crear sus propios comandos y usarlos según sea necesario.
+
+### Bibliotecas y módulos
+
+Laravel viene con bibliotecas modulares y orientadas a objetos preinstaladas que no están disponibles en muchos otros marcos PHP. Por ejemplo, una biblioteca de autenticación que es fácil de implementar y tiene características como verificar usuarios activos, hash Bcrypt, restablecimiento de contraseña, protección CSRF (Cross-site Request Forgery) y encriptación. Además, este marco está dividido en módulos individuales que adoptan principios PHP modernos que facilitan el desarrollo de aplicaciones web receptivas y modulares.
+
+### Sistema de migración de base de datos
+El sistema de migración de Laravel ayuda a expandir la estructura de la base de datos de la aplicación web sin volver a crearla cada vez que hay un cambio en el código. Debido a esta característica, el riesgo de perder datos es mínimo. No solo ofrece la posibilidad de cambiar la estructura de la base de datos, sino que también ayuda a hacerlo utilizando código PHP en lugar de SQL. Laravel Schema Builder ayuda a crear tablas de bases de datos e inserta índices o columnas rápidamente.
+
+
+
