@@ -19,7 +19,10 @@ Razones por las cuales recomiendo Laravel.
 
 [1. Introducción](https://martamaleyka.github.io/Curso-de-Laravel/capitulo1)
 
-[2. Instacion de componentes necesarios](https://martamaleyka.github.io/Curso-de-Laravel/capitulo2) 
+[2. Instalacion de componentes necesarios](https://martamaleyka.github.io/Curso-de-Laravel/capitulo2) 
+
+3. Nivel Principiante
+[3.1. Rutas](https://martamaleyka.github.io/Curso-de-Laravel/capitulo2) 
 
 
 ### Markdown
