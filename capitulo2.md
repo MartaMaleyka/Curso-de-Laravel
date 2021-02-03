@@ -21,6 +21,27 @@ Una vez dicho eso, ¡comencemos a instalar PHP!
 
 ### Instalación de PHP de forma manual
 
+Descarga y extrae los archivos del paquete de PHP
+Lo primero que tienes que hacer es descargar el archivo del paquete de PHP de tu elección de la página oficial de descargas de PHP.
+
+Ajusta el archivo de configuración php.ini
+En esta sección discutiremos los cambios necesarios que debes realizar en el archivo de configuración php.ini.
+
+Configura la variable de entorno PATH
+En esta sección final veremos cómo agregar la ruta de la instalación de PHP a la variable de entorno PATH. El proceso de actualización de la variable PATH en Windows cambia de una versión a otra. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+### Instalación de PHP con un paquete todo en uno
+
+Como mencioné anteriormente, XAMPP y WampServer son populares paquetes "todo en uno" que te permiten instalar PHP junto con los otros componentes esenciales de desarrollo web, como un servidor web y un servidor de bases de datos.
+
+Independientemente de la herramienta que elijas, el proceso de instalación de estas herramientas es bastante sencillo. Solamente necesitas descargar el instalador correspondiente y ejecutarlo para instalarlo en tu instalación de Windows. 
+
+### Imstalación de composer
+
+**¿Qué ES COMPOSER?**
+
+Composer es una herramienta para la gestión de dependencias en PHP. Le permite declarar las bibliotecas de las que depende su proyecto y las administrará (instalará / actualizará) por usted.
 
