@@ -23,10 +23,10 @@ Laravel ofrece una seguridad de aplicaciones web muy sólida. Utiliza un mecanis
 
 El framework Laravel ofrece una seguridad de aplicaciones web muy sólida. Utiliza un mecanismo de contraseña hash y salada para que la contraseña nunca se guarde como texto sin formato en la base de datos. También utiliza el "algoritmo de hash Bcrypt" para generar una contraseña cifrada. Además, este marco de desarrollo web PHP utiliza declaraciones SQL preparadas que previenen los ataques de inyección SQL
 
-## Compatibilidad con la arquitectura MVC:
+### Compatibilidad con la arquitectura MVC:
 Laravel admite el patrón de arquitectura MVC, que asegura que se separen las capas de presentación y lógica empresarial. El patrón MVC de Laravel tiene muchas funciones integradas, mejora el rendimiento de la aplicación y aumenta la seguridad y la escalabilidad.
 
-## Eloquent ORM (Object Relational Mapping):
+### Eloquent ORM (Object Relational Mapping):
 Laravel ofrece Eloquent Object Relational Mapping (ORM) que incluye una implementación simple de PHP Active Record. Esto permite a los desarrolladores de aplicaciones web escribir consultas de bases de datos con sintaxis PHP en lugar de escribir código SQL. Un ORM es relativamente más rápido que otros marcos PHP.
 
 
