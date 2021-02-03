@@ -23,7 +23,7 @@ Razones por las cuales recomiendo Laravel.
 
 3. Nivel Principiante
 
-    3.1. [Rutas](https://martamaleyka.github.io/Curso-de-Laravel/capitulo2) 
+    3.1. [Rutas](https://martamaleyka.github.io/Curso-de-Laravel/rutas) 
 
 
 ### Markdown
