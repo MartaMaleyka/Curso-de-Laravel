@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+##1. Introduccion
 
-You can use the [editor on GitHub](https://github.com/MartaMaleyka/Curso-de-Laravel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En el Curso de Laravel aprenderás a usar este poderoso framework para el desarrollo de aplicaciones modernas, a usar las diferentes piezas que nos ofrece para la implementación de todas las partes fundamentales de un proyecto web.
 
 ### Markdown
 
