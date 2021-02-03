@@ -43,5 +43,5 @@ Laravel viene con bibliotecas modulares y orientadas a objetos preinstaladas que
 ### Sistema de migración de base de datos
 El sistema de migración de Laravel ayuda a expandir la estructura de la base de datos de la aplicación web sin volver a crearla cada vez que hay un cambio en el código. Debido a esta característica, el riesgo de perder datos es mínimo. No solo ofrece la posibilidad de cambiar la estructura de la base de datos, sino que también ayuda a hacerlo utilizando código PHP en lugar de SQL. Laravel Schema Builder ayuda a crear tablas de bases de datos e inserta índices o columnas rápidamente.
 
-
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/migraciones.jpg)
 
