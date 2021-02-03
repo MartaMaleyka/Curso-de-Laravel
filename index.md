@@ -6,7 +6,7 @@ En el Curso de Laravel aprenderás a usar este poderoso framework para el desarr
 
 Aprender a crear aplicaciones robustas y escalables con el framework más popular de PHP, Laravel
 
-## 3. JUSTIFICACIÓN DEL TALLER:
+## 3. Justificación del taller:
 
 Razones por las cuales recomiendo Laravel.
 -	Comunidad: Laravel es un framework con una comunidad muy activa que orbita a su alrededor.
