@@ -17,7 +17,7 @@ Razones por las cuales recomiendo Laravel.
 
 ## Contenido
 
-[1. Introducción](https://github.com/MartaMaleyka/Curso-de-Laravel/blob/gh-pages/capitulo1.md) 
+[1. Introducción](https://martamaleyka.github.io/Curso-de-Laravel/capitulo1) 
 
 ### Markdown
 
