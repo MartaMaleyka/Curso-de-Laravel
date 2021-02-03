@@ -55,4 +55,10 @@ El sistema de migración de Laravel ayuda a expandir la estructura de la base de
 - Enrutamiento inverso
 - Gestión de colas
 - Se integra con los servicios de correo
-Una abundancia de paquetes y recursos
+- Una abundancia de paquetes y recursos
+
+## Desventajas
+
+- Falta de apoyo incorporado
+- Problemático con ciertas actualizaciones
+- Podría parecer complejo al principio
