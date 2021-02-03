@@ -32,4 +32,5 @@ Laravel admite el patrón de arquitectura MVC, que asegura que se separen las ca
 Laravel ofrece Eloquent Object Relational Mapping (ORM) que incluye una implementación simple de PHP Active Record. Esto permite a los desarrolladores de aplicaciones web escribir consultas de bases de datos con sintaxis PHP en lugar de escribir código SQL. Un ORM es relativamente más rápido que otros marcos PHP.
 
 
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/orm.jpg)
 
