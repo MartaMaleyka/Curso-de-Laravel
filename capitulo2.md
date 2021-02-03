@@ -18,3 +18,9 @@ En la siguiente sección discutiremos diferentes formas de instalar PHP. Si quie
 Hoy vamos a instalar la versión estable más reciente de PHP, que es la 7.4. De hecho, PHP tiene varias versiones diferentes, y si quieres instalar una versión distinta de PHP y te enfrentas con dificultades, escríbeme en la sección de comentarios y estaré encantado de ayudarte.
 
 Una vez dicho eso, ¡comencemos a instalar PHP!
+
+### Instalación de PHP de forma manual
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
