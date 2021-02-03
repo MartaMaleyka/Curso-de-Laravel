@@ -41,7 +41,7 @@ Independientemente de la herramienta que elijas, el proceso de instalación de e
 
 ### Imstalación de composer
 
-**¿Qué ES COMPOSER?**
+**¿Qué es COMPOSER?**
 
 Composer es una herramienta para la gestión de dependencias en PHP. Le permite declarar las bibliotecas de las que depende su proyecto y las administrará (instalará / actualizará) por usted.
 
