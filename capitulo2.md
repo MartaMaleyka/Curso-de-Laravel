@@ -38,6 +38,8 @@ Como mencioné anteriormente, XAMPP y WampServer son populares paquetes "todo en
 
 Independientemente de la herramienta que elijas, el proceso de instalación de estas herramientas es bastante sencillo. Solamente necesitas descargar el instalador correspondiente y ejecutarlo para instalarlo en tu instalación de Windows. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W8DC1oi-lqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Imstalación de composer
 
 **¿Qué es COMPOSER?**
