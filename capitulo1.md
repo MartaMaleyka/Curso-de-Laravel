@@ -31,6 +31,7 @@ Laravel admite el patrón de arquitectura MVC, que asegura que se separen las ca
 ### Eloquent ORM (Object Relational Mapping):
 Laravel ofrece Eloquent Object Relational Mapping (ORM) que incluye una implementación simple de PHP Active Record. Esto permite a los desarrolladores de aplicaciones web escribir consultas de bases de datos con sintaxis PHP en lugar de escribir código SQL. Un ORM es relativamente más rápido que otros marcos PHP.
 
-
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/orm.jpg)
 
+### Artisan
+El framework Laravel ofrece una herramienta de línea de comandos incorporada llamada Artisan que ayuda a automatizar la mayoría de las tediosas tareas de programación repetitivas. Estos artesanos también se pueden utilizar para crear la estructura de la base de datos, un código esqueleto y administrar la migración, por lo que es un sistema de base de datos bastante fácil de administrar. Además, puede generar archivos MVC básicos a través de la línea de comandos y administrar esos activos, así como sus respectivas configuraciones. Artisan incluso ayuda a los desarrolladores a crear sus propios comandos y usarlos según sea necesario.
