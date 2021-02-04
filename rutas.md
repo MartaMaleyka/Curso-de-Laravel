@@ -34,12 +34,14 @@ Route::get('contacto', function () {
 ### Tipos de peticiones
 
 Las mas comunes
-
+```php
 Route::get();              
 Route::post();
+``` 
 
-
+```php
 Route:::put();
 Route::patch();       x
 Route::delete();  
-Estas ultimas tres no soportadas or los navegadores hoy dia, mas adelante veremos como Laravel maneja este tipo de peticiones
+```
+Estas ultimas tres no son soportadas por los navegadores hoy dia, mas adelante veremos como Laravel maneja este tipo de peticiones
