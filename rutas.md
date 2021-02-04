@@ -6,8 +6,8 @@ Las rutas son una capa muy importante en Laravel, es por ello que el Framework d
 En este capitulo nos enfocaremos en las rutas web.
 
 ##  Definiendo rutas
-<addr>
+<
 Route::get('/esta-es-la-url', function () {
          return 'Hola mundo';
 });
-<addr>
+>
