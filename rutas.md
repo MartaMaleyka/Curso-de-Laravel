@@ -13,5 +13,3 @@ Route::get('/esta-es-la-url', function () {
 
 
 ### Ejemplos
-
-
