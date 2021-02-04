@@ -41,7 +41,7 @@ Route::post();
 
 ```php
 Route:::put();
-Route::patch();       x
+Route::patch();       
 Route::delete();  
 ```
 Estas ultimas tres no son soportadas por los navegadores hoy dia, mas adelante veremos como Laravel maneja este tipo de peticiones
