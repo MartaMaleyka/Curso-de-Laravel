@@ -65,3 +65,19 @@ Paso 5 : la salida aparecerá como se muestra en la siguiente imagen.
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vistas1.jpg)
 
+### Metodo with
+También podemos usar el método with encadenándolo al llamado a la función view para pasar datos a la vista en formato de array asociativo:
+
+```php
+Route::get('/test', function() {
+$users = [
+'Joel',
+'Ellie',
+'Tess',
+];
+
+return view('users')->with([
+    'users' => $users
+]);  
+});
+```
