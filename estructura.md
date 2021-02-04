@@ -61,6 +61,7 @@ La carpeta de configuración incluye varias configuraciones y parámetros asocia
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/configfolder.jpg)
 
 ## Carpeta database
+
 Como sugiere su nombre, este directorio incluye varios parámetros para las funcionalidades de la base de datos. Incluye tres subdirectorios como se indica a continuación:
 
 - Seeders : contiene las clases utilizadas para la base de datos de pruebas unitarias.
