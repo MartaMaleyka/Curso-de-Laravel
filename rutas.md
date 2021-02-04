@@ -62,3 +62,11 @@ Route::get('saludo/{nombre?}', function ($nombre) {
 });
 ```
 
+Al no tener un parametro obligatorio, se le debe poner un parametro por defecto
+
+```php
+Route::get('saludo/{nombre?}', function ($nombre="Invitado") {
+         return  'Hola ' .$nombre;
+});
+```
+
