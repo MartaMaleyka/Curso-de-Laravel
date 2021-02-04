@@ -10,3 +10,5 @@ Laravel se basa completamente en las dependencias de Composer, por ejemplo, para
 Además de los archivos mencionados anteriormente, Laravel también incluye algunos otros archivos que juegan un papel principal en varias funcionalidades, como la configuración de GitHub, paquetes y bibliotecas de terceros.
 
 Los archivos incluidos en la estructura de la aplicación se muestran a continuación:
+
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vendor.jpg)
