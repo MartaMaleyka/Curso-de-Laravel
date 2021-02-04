@@ -100,4 +100,5 @@ return view('users', compact('users', 'title'));
 
 });
 ```
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
 
