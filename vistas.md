@@ -32,3 +32,18 @@ Paso 4 : la salida aparecerá como se muestra en la siguiente imagen.
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vistas.jpg)
 
+## Pasar datos a vistas
+Mientras se crea la aplicación, es posible que sea necesario pasar datos a las vistas. Pase una matriz para ver la función auxiliar. Después de pasar una matriz, podemos usar la clave para obtener el valor de esa clave en el archivo HTML.
+
+### Ejemplo
+Observe el siguiente ejemplo para comprender mejor cómo pasar datos a las vistas:
+
+Paso 1 : copie el siguiente código y guárdelo en resources/views/test.php
+```html 
+<html>
+   <body>
+      <h1><?php echo $name; ?></h1>
+   </body>
+</html>
+```
+
