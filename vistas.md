@@ -30,3 +30,5 @@ http://localhost:8000/test
 
 Paso 4 : la salida aparecerá como se muestra en la siguiente imagen.
 
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vistas.jpg)
+
