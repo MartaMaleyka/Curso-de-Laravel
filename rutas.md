@@ -1,3 +1,5 @@
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
+
 # Rutas
 
 ## ¿Qué son las rutas?
@@ -70,4 +72,5 @@ Route::get('saludo/{nombre?}', function ($nombre="Invitado") {
 });
 ```
 
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
 
