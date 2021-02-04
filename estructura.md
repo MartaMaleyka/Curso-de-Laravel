@@ -79,6 +79,19 @@ Es la carpeta raíz que ayuda a inicializar la aplicación Laravel. Incluye los 
 
 - index.php : este archivo es necesario para la inicialización de una aplicación web.
 
+## Carpeta Resources
+El directorio de recursos contiene los archivos que mejoran su aplicación web. Las subcarpetas incluidas en este directorio y su propósito se explican a continuación:
+
+- assets : la carpeta de assets incluye archivos como LESS y SCSS, que son necesarios para diseñar la aplicación web.
+
+- lang : esta carpeta incluye la configuración para la localización o internalización.
+
+- views : las vistas son archivos HTML o plantillas que interactúan con los usuarios finales y desempeñan un papel principal en la arquitectura MVC.
+
+Observe que el directorio de recursos se acoplará en lugar de tener una carpeta de assets. La representación del mismo se muestra a continuación:
+
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/resource.jpg)
+
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
 
