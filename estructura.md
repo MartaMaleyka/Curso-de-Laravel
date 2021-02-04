@@ -23,12 +23,22 @@ La consola incluye los comandos artesanales necesarios para Laravel. Incluye un 
 
 Si necesitamos llamar a un comando específico en Laravel, entonces deberíamos hacer los cambios apropiados en este directorio.
 
-### Carpeta eventos
+### Carpeta events
 Esta carpeta incluye todos los eventos del proyecto.
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/events.jpg)
 
 Los eventos se utilizan para desencadenar actividades, generar errores o validaciones necesarias y proporcionar una mayor flexibilidad. Laravel mantiene todos los eventos en un directorio. El archivo predeterminado incluido es event.php donde se declaran todos los eventos básicos.
+
+### Carpeta Excepciones
+Esta carpeta contiene todos los métodos necesarios para manejar excepciones. También contiene el archivo handle.php que maneja todas las excepciones.
+
+### Carpeta Http
+La carpeta Http tiene subcarpetas para controladores, middleware y solicitudes de aplicaciones. Como Laravel sigue el patrón de diseño MVC, esta carpeta incluye el modelo, los controladores y las vistas definidas para los directorios específicos.
+
+La subcarpeta **Middleware** incluye un mecanismo de middleware, que comprende el mecanismo de filtro y la comunicación entre la respuesta y la solicitud.
+
+La subcarpeta **Requests** incluye todas las solicitudes de la aplicación.
 
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
