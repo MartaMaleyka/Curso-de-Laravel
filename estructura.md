@@ -1,3 +1,5 @@
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
+
 # Estructura de carpetas en laravel
 
 La estructura de la aplicación en Laravel es básicamente la estructura de carpetas, subcarpetas y archivos incluidos en un proyecto. Una vez que creamos un proyecto en Laravel, obtenemos una descripción general de la estructura de la aplicación como se muestra en la imagen aquí.
@@ -122,3 +124,4 @@ Los archivos incluidos en la estructura de la aplicación se muestran a continua
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vendor.jpg)
 
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
