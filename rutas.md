@@ -13,12 +13,17 @@ Route::get('/esta-es-la-url', function () {
 ````
 
 ### Ejemplos
+
+Ruta de inicio 
+
 ````php
 Route::get('/', function () {
          return 'Hola desde la pagina de inicio';
 });
 
 ````
+
+Ruta contacto
 
 ````php
 
