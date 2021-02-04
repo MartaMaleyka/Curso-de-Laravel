@@ -51,14 +51,14 @@ Estas ultimas tres no son soportadas por los navegadores hoy dia, mas adelante v
 PARAMETRO OBLIGATORIO
 ```php
 Route::get('saludo/{nombre}', function ($nombre) {
-         return 'Hola ‘.$nombre;
+         return  'Hola ' .$nombre;
 });
 ```
 
 PARAMETRO NO OBLIGATORIO
 ```php
 Route::get('saludo/{nombre?}', function ($nombre) {
-         return 'Hola ‘.$nombre;
+         return  'Hola ' .$nombre;
 });
 ```
 
