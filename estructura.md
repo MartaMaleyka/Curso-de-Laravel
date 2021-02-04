@@ -70,6 +70,15 @@ Como sugiere su nombre, este directorio incluye varios parámetros para las func
 
 - Factories : esta carpeta se utiliza para generar una gran cantidad de registros de datos.
 
+## Carpeta Public
+Es la carpeta raíz que ayuda a inicializar la aplicación Laravel. Incluye los siguientes archivos y carpetas:
+
+- .htaccess : este archivo proporciona la configuración del servidor.
+
+- javascript y css : estos archivos se consideran activos.
+
+- index.php : este archivo es necesario para la inicialización de una aplicación web.
+
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
 
