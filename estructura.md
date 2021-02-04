@@ -53,7 +53,6 @@ Las políticas son las clases de PHP que incluyen la lógica de autorización. L
 Esta carpeta incluye todos los proveedores de servicios necesarios para registrar eventos para servidores centrales y configurar una aplicación Laravel.
 
 ## Carpeta bootstrap
-
 Esta carpeta incluye todos los scripts de arranque de la aplicación. Contiene una subcarpeta llamada caché , que incluye todos los archivos asociados para almacenar en caché una aplicación web. También puede encontrar el archivo app.php , que inicializa los scripts necesarios para bootstrap.
 
 ## Carpeta Config
