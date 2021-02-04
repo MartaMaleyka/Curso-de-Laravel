@@ -57,7 +57,7 @@ Route::get( 'saludo/{nombre}', function ($nombre) {
 
 PARAMETRO NO OBLIGATORIO
 ```php
-Route::get(‘saludo/{nombre?}', function ($nombre) {
+Route::get( 'saludo/{nombre?}', function ($nombre) {
          return 'Hola ‘.$nombre;
 });
 ```
