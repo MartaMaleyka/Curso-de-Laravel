@@ -121,3 +121,4 @@ Además de los archivos mencionados anteriormente, Laravel también incluye algu
 Los archivos incluidos en la estructura de la aplicación se muestran a continuación:
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vendor.jpg)
+
