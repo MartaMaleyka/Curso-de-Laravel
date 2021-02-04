@@ -3,7 +3,7 @@
 La estructura de la aplicación en Laravel es básicamente la estructura de carpetas, subcarpetas y archivos incluidos en un proyecto. Una vez que creamos un proyecto en Laravel, obtenemos una descripción general de la estructura de la aplicación como se muestra en la imagen aquí.
 
 La imagen que se muestra aquí se refiere a la carpeta raíz de Laravel, a saber, laravel-project . Incluye varias subcarpetas y archivos. El análisis de carpetas y archivos, junto con sus aspectos funcionales se detalla a continuación:
-![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/estructura.jpg)
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/esructura.jpg)
 
 ## Archivo .env
 Es la definición de las variables de entorno. Podemos tener varios entornos donde vamos a mantener la ejecución de la aplicación con varias variables que tengan valores diferentes. Temas como si estamos trabajando con el debug activado, datos de conexión con la base de datos, servidores de envío de correo, caché, etc.
