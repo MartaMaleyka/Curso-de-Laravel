@@ -4,3 +4,9 @@ Es la definición de las variables de entorno. Podemos tener varios entornos don
 ## Archivo composer.json
 Que contiene información para Composer. Para conocer algo más de este fichero es mejor que te leas el Tutorial de Composer.<br>
 Además en la raíz hay una serie de archivos que tienen que ver con Git, el readme, o del lado frontend el package.json o incluso un gulpfile.js que no vendria muy al caso comentar aquí porque no son cosas específicas de Laravel.
+## Carpeta vendor
+Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
+
+Además de los archivos mencionados anteriormente, Laravel también incluye algunos otros archivos que juegan un papel principal en varias funcionalidades, como la configuración de GitHub, paquetes y bibliotecas de terceros.
+
+Los archivos incluidos en la estructura de la aplicación se muestran a continuación:
