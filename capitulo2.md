@@ -1,3 +1,5 @@
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
+
 # Instalando los componentes necesarios
 
 ## Instalación de PHP
@@ -52,3 +54,6 @@ Composer es una herramienta para la gestión de dependencias en PHP. Le permite 
 ### Crear primer Proyecto en Laravel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ubzp0bEld-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
