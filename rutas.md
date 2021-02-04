@@ -61,3 +61,4 @@ Route::get('saludo/{nombre?}', function ($nombre) {
          return 'Hola ‘.$nombre;
 });
 ```
+
