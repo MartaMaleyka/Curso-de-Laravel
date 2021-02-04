@@ -52,6 +52,13 @@ Las políticas son las clases de PHP que incluyen la lógica de autorización. L
 ### Carpeta providers
 Esta carpeta incluye todos los proveedores de servicios necesarios para registrar eventos para servidores centrales y configurar una aplicación Laravel.
 
+## Carpeta bootstrap
+
+Esta carpeta incluye todos los scripts de arranque de la aplicación. Contiene una subcarpeta llamada caché , que incluye todos los archivos asociados para almacenar en caché una aplicación web. También puede encontrar el archivo app.php , que inicializa los scripts necesarios para bootstrap.
+
+## Carpeta Config
+La carpeta de configuración incluye varias configuraciones y parámetros asociados necesarios para el buen funcionamiento de una aplicación Laravel. Varios archivos incluidos dentro de la carpeta de configuración se muestran en la imagen aquí. Los nombres de archivo funcionan según la funcionalidad asociada a ellos.
+
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
 
