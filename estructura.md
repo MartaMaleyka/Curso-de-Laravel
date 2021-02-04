@@ -17,7 +17,7 @@ Además en la raíz hay una serie de archivos que tienen que ver con Git, el rea
 ## Carpeta app
 Es la carpeta de la aplicación e incluye todo el código fuente del proyecto. Contiene eventos, excepciones y declaración de middleware. La carpeta de la aplicación comprende varias subcarpetas como se explica a continuación:
 
-**Carpeta console
+**Carpeta console**
 
 La consola incluye los comandos artesanales necesarios para Laravel. Incluye un directorio llamado Commands , donde todos los comandos se declaran con la firma adecuada. El archivo Kernel.php llama a los comandos declarados en Inspire.php .
 
@@ -25,7 +25,7 @@ La consola incluye los comandos artesanales necesarios para Laravel. Incluye un 
 
 Si necesitamos llamar a un comando específico en Laravel, entonces deberíamos hacer los cambios apropiados en este directorio.
 
-**Carpeta events
+**Carpeta events**
 
 Esta carpeta incluye todos los eventos del proyecto.
 
@@ -33,11 +33,11 @@ Esta carpeta incluye todos los eventos del proyecto.
 
 Los eventos se utilizan para desencadenar actividades, generar errores o validaciones necesarias y proporcionar una mayor flexibilidad. Laravel mantiene todos los eventos en un directorio. El archivo predeterminado incluido es event.php donde se declaran todos los eventos básicos.
 
-**Carpeta Excepciones
+**Carpeta Excepciones**
 
 Esta carpeta contiene todos los métodos necesarios para manejar excepciones. También contiene el archivo handle.php que maneja todas las excepciones.
 
-**Carpeta Http
+**Carpeta Http**
 
 La carpeta Http tiene subcarpetas para controladores, middleware y solicitudes de aplicaciones. Como Laravel sigue el patrón de diseño MVC, esta carpeta incluye el modelo, los controladores y las vistas definidas para los directorios específicos.
 
@@ -45,19 +45,19 @@ La subcarpeta **Middleware** incluye un mecanismo de middleware, que comprende e
 
 La subcarpeta **Requests** incluye todas las solicitudes de la aplicación.
 
-**Carpeta Jobs
+**Carpeta Jobs**
 
 El directorio jobs mantiene las actividades en cola para la aplicación Laravel. La clase base se comparte entre todos los trabajos y proporciona una ubicación central para colocarlos bajo un mismo techo.
 
-**Carpeta Listeners
+**Carpeta Listeners**
 
 Los listeners dependen de los eventos e incluyen métodos que se utilizan para manejar eventos y excepciones. Por ejemplo, el evento de inicio de sesión declarado incluye un evento LoginListener .
 
-**Carpeta policies
+**Carpeta policies**
 
 Las políticas son las clases de PHP que incluyen la lógica de autorización. Laravel incluye una función para crear toda la lógica de autorización dentro de las clases de políticas dentro de esta subcarpeta.
 
-**Carpeta providers
+**Carpeta providers**
 
 Esta carpeta incluye todos los proveedores de servicios necesarios para registrar eventos para servidores centrales y configurar una aplicación Laravel.
 
