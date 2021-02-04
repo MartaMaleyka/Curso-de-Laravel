@@ -14,7 +14,7 @@ Además en la raíz hay una serie de archivos que tienen que ver con Git, el rea
 ## Carpeta app
 Es la carpeta de la aplicación e incluye todo el código fuente del proyecto. Contiene eventos, excepciones y declaración de middleware. La carpeta de la aplicación comprende varias subcarpetas como se explica a continuación:
 ### Carpeta console
-La consola incluye los comandos artesanales necesarios para Laravel. Incluye un directorio llamado Comandos , donde todos los comandos se declaran con la firma adecuada. El archivo Kernal.php llama a los comandos declarados en Inspire.php .
+La consola incluye los comandos artesanales necesarios para Laravel. Incluye un directorio llamado Commands , donde todos los comandos se declaran con la firma adecuada. El archivo Kernel.php llama a los comandos declarados en Inspire.php .
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/console.jpg)
 
