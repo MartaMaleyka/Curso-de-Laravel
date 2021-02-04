@@ -60,6 +60,14 @@ La carpeta de configuración incluye varias configuraciones y parámetros asocia
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/configfolder.jpg)
 
+## Carpeta database
+Como sugiere su nombre, este directorio incluye varios parámetros para las funcionalidades de la base de datos. Incluye tres subdirectorios como se indica a continuación:
+
+- Seeders : contiene las clases utilizadas para la base de datos de pruebas unitarias.
+
+- Migrations : esta carpeta ayuda en las consultas para migrar la base de datos utilizada en la aplicación web.
+
+- Factories : esta carpeta se utiliza para generar una gran cantidad de registros de datos.
 
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
