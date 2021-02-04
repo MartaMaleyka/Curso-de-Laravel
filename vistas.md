@@ -16,4 +16,17 @@ Paso 1 : copie el siguiente código y guárdelo en resources/views/test.blade.ph
    </body>
 </html>
 ````
+Paso 2 : agregue la siguiente línea en el archivo routes/routes.php para establecer la ruta para la vista anterior.
+
+```php
+Route::get('/test', function() {
+   return view('test');
+});
+````
+
+Paso 3 : visite la siguiente URL para ver el resultado de la vista.
+
+http://localhost:8000/test
+
+Paso 4 : la salida aparecerá como se muestra en la siguiente imagen.
 
