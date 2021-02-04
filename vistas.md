@@ -81,3 +81,22 @@ return view('users')->with([
 ]);  
 });
 ```
+
+### Metodo compact
+Si los datos que queremos pasar a la vista se encuentran dentro de variables locales podemos utilizar la función compact,  la cual acepta como argumentos los nombres de las variables y las convierte en un array asociativo:
+
+
+```php
+Route::get('/test', function() {
+$users = [
+'Joel',
+'Ellie',
+'Tess',
+];
+
+$title = 'Listado de usuarios';
+
+return view('users', compact('users', 'title'));
+
+});
+```
