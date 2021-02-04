@@ -92,6 +92,18 @@ Observe que el directorio de recursos se acoplará en lugar de tener una carpeta
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/resource.jpg)
 
+## Carpeta Storage
+Esta es la carpeta que almacena todos los registros y archivos necesarios que se necesitan con frecuencia cuando se ejecuta un proyecto de Laravel. Las subcarpetas incluidas en este directorio y su propósito se detallan a continuación:
+
+- app : esta carpeta contiene los archivos que se llaman en sucesión.
+
+- framework : contiene sesiones, caché y vistas a las que se llama con frecuencia.
+
+- logs : todas las excepciones y los registros de errores se rastrean en esta subcarpeta.
+
+## Carpeta tests
+Todos los casos de prueba unitaria están incluidos en este directorio. La convención de nomenclatura para nombrar las clases de casos de prueba es camel_case y sigue la convención según la funcionalidad de la clase.
+
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
 
