@@ -51,7 +51,7 @@ routes/web.php
 
 ```php
 Route::get('/test', function() {
-   return view('test',[‘name’=>’Virat Gandhi’]);
+   return view('test',["name"=>"Virat Gandhi"]);
 });
 ```
 
