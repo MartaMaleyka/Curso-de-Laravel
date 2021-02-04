@@ -1,4 +1,6 @@
 # Estructura de carpetas en laravel
 ## Archivo .env
 Es la definición de las variables de entorno. Podemos tener varios entornos donde vamos a mantener la ejecución de la aplicación con varias variables que tengan valores diferentes. Temas como si estamos trabajando con el debug activado, datos de conexión con la base de datos, servidores de envío de correo, caché, etc.
-
+## Archivo composer.json
+Que contiene información para Composer. Para conocer algo más de este fichero es mejor que te leas el Tutorial de Composer.<br>
+Además en la raíz hay una serie de archivos que tienen que ver con Git, el readme, o del lado frontend el package.json o incluso un gulpfile.js que no vendria muy al caso comentar aquí porque no son cosas específicas de Laravel.
