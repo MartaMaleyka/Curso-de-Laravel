@@ -9,7 +9,21 @@ En este capitulo nos enfocaremos en las rutas web.
 ````php
 Route::get('/esta-es-la-url', function () {
          return 'Hola mundo';
-});?
+});
 ````
 
 ### Ejemplos
+````php
+Route::get('/', function () {
+         return 'Hola desde la pagina de inicio';
+});
+
+````
+
+````php
+
+Route::get(‘contacto', function () {
+         return 'Hola desde la pagina de contacto';
+});
+
+````
