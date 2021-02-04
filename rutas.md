@@ -26,10 +26,8 @@ Route::get('/', function () {
 Ruta contacto
 
 ````php
-
-Route::get(‘contacto', function () {
+Route::get('contacto', function () {
          return 'Hola desde la pagina de contacto';
 });
-
 ````
 
