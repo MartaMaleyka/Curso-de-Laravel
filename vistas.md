@@ -46,4 +46,19 @@ Paso 1 : copie el siguiente código y guárdelo en resources/views/test.php
    </body>
 </html>
 ```
+Paso 2 : agregue la siguiente línea en el archivo routes/web.php para establecer la ruta para la vista anterior.
+routes/web.php
 
+```php
+Route::get('/test', function() {
+   return view('test',[‘name’=>’Virat Gandhi’]);
+});
+```
+
+Paso 3 : el valor del nombre de la clave se pasará al archivo test.php y $ name será reemplazado por ese valor.
+
+Paso 4 : visite la siguiente URL para ver el resultado de la vista.
+
+http://localhost:8000/test
+
+Paso 5 : la salida aparecerá como se muestra en la siguiente imagen.
