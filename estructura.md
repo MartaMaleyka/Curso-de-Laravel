@@ -40,6 +40,18 @@ La subcarpeta **Middleware** incluye un mecanismo de middleware, que comprende e
 
 La subcarpeta **Requests** incluye todas las solicitudes de la aplicación.
 
+###  Carpeta Jobs
+El directorio jobs mantiene las actividades en cola para la aplicación Laravel. La clase base se comparte entre todos los trabajos y proporciona una ubicación central para colocarlos bajo un mismo techo.
+
+### Carpeta Listeners
+Los listeners dependen de los eventos e incluyen métodos que se utilizan para manejar eventos y excepciones. Por ejemplo, el evento de inicio de sesión declarado incluye un evento LoginListener .
+
+### Carpeta policies
+Las políticas son las clases de PHP que incluyen la lógica de autorización. Laravel incluye una función para crear toda la lógica de autorización dentro de las clases de políticas dentro de esta subcarpeta.
+
+### Carpeta providers
+Esta carpeta incluye todos los proveedores de servicios necesarios para registrar eventos para servidores centrales y configurar una aplicación Laravel.
+
 ## Carpeta vendor
 Laravel se basa completamente en las dependencias de Composer, por ejemplo, para instalar la configuración de Laravel o para incluir bibliotecas de terceros, etc. La carpeta Vendor incluye todas las dependencias del compositor.
 
