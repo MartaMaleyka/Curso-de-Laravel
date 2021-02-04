@@ -62,3 +62,6 @@ Paso 4 : visite la siguiente URL para ver el resultado de la vista.
 http://localhost:8000/test
 
 Paso 5 : la salida aparecerá como se muestra en la siguiente imagen.
+
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/vistas1.jpg)
+
