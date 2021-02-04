@@ -64,7 +64,7 @@ La carpeta de configuración incluye varias configuraciones y parámetros asocia
 
 Como sugiere su nombre, este directorio incluye varios parámetros para las funcionalidades de la base de datos. Incluye tres subdirectorios como se indica a continuación:
 
-- Seeders : contiene las clases utilizadas para la base de datos de pruebas unitarias.
+- Seeders : contiene las clases utilizadas para las pruebas unitarias.
 
 - Migrations : esta carpeta ayuda en las consultas para migrar la base de datos utilizada en la aplicación web.
 
