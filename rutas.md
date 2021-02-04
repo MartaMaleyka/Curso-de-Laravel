@@ -9,3 +9,5 @@ En este capitulo nos enfocaremos en las rutas web.
 <Route::get('/esta-es-la-url', function () {
          return 'Hola mundo';
 });>
+
+### Ejemplos
