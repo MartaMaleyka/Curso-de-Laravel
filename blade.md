@@ -63,5 +63,8 @@ Aquí se muestra un ejemplo que muestra la extensión del diseño creado anterio
 ### Paso 3
 Para implementar los elementos secundarios en las vistas, debe definir el diseño de la forma que sea necesario.
 
-Página de destino
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/landing.jpg)
+
 Observe la captura de pantalla que se muestra aquí. Puede encontrar que cada uno de los enlaces mencionados en la página de destino son hipervínculos. Tenga en cuenta que también puede crearlos como elementos secundarios con la ayuda de plantillas de hoja mediante el procedimiento que se describe anteriormente.
+
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
