@@ -49,7 +49,7 @@ Cuando amplíe un diseño, tenga en cuenta los siguientes puntos:
 
 Aquí se muestra un ejemplo que muestra la extensión del diseño creado anteriormente:
 
-```laravel
+```php
 @extends('layouts.app')
 @section('title', 'Page Title')
 @section('sidebar')
