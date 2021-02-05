@@ -15,4 +15,4 @@ La estructura de directorio completa de Laravel se muestra en la captura de pant
 
 Puede observar que todas las vistas se almacenan en el directorio resources / views y la vista predeterminada para el marco de Laravel es welcome.blade.php .
 
-Tenga en cuenta que otras plantillas de hoja también se crean de manera similar.
+Tenga en cuenta que otras plantillas también se crean de manera similar.
