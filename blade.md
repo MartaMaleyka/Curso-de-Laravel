@@ -36,3 +36,28 @@ Deberá seguir los siguientes pasos para crear un diseño de plantilla de hoja:
    </body>
 </html>
 ```
+### Paso 2
+En este paso, debe ampliar el diseño. Ampliar un diseño implica definir los elementos secundarios. Laravel usa la directiva Blade @extends para definir los elementos secundarios.
+
+Cuando amplíe un diseño, tenga en cuenta los siguientes puntos:
+
+- Las vistas definidas en Blade Layout inyectan el contenedor de una manera única.
+
+- Se crean varias secciones de vista como elementos secundarios.
+
+- Los elementos secundarios se almacenan en la carpeta de diseños como child.blade.php
+
+Aquí se muestra un ejemplo que muestra la extensión del diseño creado anteriormente:
+
+```laravel
+@extends('layouts.app')
+@section('title', 'Page Title')
+@section('sidebar')
+   @parent
+<p>This refers to the master sidebar.</p>
+@endsection
+@section('content')
+<p>This is my body content.</p>
+@endsection
+````
+
