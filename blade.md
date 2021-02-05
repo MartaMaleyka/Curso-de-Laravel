@@ -49,15 +49,15 @@ Cuando amplíe un diseño, tenga en cuenta los siguientes puntos:
 
 Aquí se muestra un ejemplo que muestra la extensión del diseño creado anteriormente:
 
-```php
+```html
 @extends('layouts.app')
 @section('title', 'Page Title')
 @section('sidebar')
    @parent
-<p>This refers to the master sidebar.</p>
+<p>Esto hace referencia a e la vista master.</p>
 @endsection
 @section('content')
-<p>This is my body content.</p>
+<p>Este es el contenido.</p>
 @endsection
 ````
 
