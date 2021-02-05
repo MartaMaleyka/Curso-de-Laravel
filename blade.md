@@ -11,7 +11,7 @@ En comparación con otros motores de plantillas, Blade es único en las siguient
 
 La estructura de directorio completa de Laravel se muestra en la captura de pantalla que se proporciona aquí
 
-
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/blade.jpg)
 
 Puede observar que todas las vistas se almacenan en el directorio resources / views y la vista predeterminada para el marco de Laravel es welcome.blade.php .
 
