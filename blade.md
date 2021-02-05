@@ -16,3 +16,23 @@ La estructura de directorio completa de Laravel se muestra en la captura de pant
 Puede observar que todas las vistas se almacenan en el directorio resources / views y la vista predeterminada para el marco de Laravel es welcome.blade.php .
 
 Tenga en cuenta que otras plantillas también se crean de manera similar.
+
+
+## Pasos para crear un diseño de plantilla de hoja
+Deberá seguir los siguientes pasos para crear un diseño de plantilla de hoja:
+
+### Paso 1
+- Cree una carpeta de diseño dentro de la carpeta de resources/vistas . Usaremos esta carpeta para almacenar todos los diseños juntos.
+
+- Cree un nombre de archivo master.blade.php que tendrá el siguiente código asociado:
+
+```html
+<html>
+   <head>
+      <title>DemoLaravel - @yield('title')</title>
+   </head>
+   <body>
+      @yield('content')
+   </body>
+</html>
+```
