@@ -66,3 +66,18 @@ Podemos utilizar la directiva @elseif, que como su nombre sugiere nos permite ut
     <p>No hay usuarios registrados.</p>
 @endif
 ```
+### Directiva unless
+
+Blade también tiene la directiva @unless, que funciona como un condicional inverso:
+
+```php
+@unless (empty($users))
+    <ul>
+        @foreach ($users as $user)
+            <li>{{ $user }}</li>
+        @endforeach
+    </ul>
+@else
+    <p>No hay usuarios registrados.</p>
+@endunless
+````
