@@ -11,6 +11,9 @@ Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dob
     }
 </li>
 ```
+Seria asi 
+
+
 
 ## Ciclos y estructuras
 
