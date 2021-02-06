@@ -14,7 +14,9 @@ Si queremos utilizar ciclos y estructuras condicionales, podemos utilizar direct
 
 ```
 @foreach ($users as $user)
-    <li>{{ $user }}</li>
+    <li>
+    print ({{ $user }})
+    </li>
 @endforeach
 ```
 
