@@ -74,7 +74,9 @@ Blade también tiene la directiva @unless, que funciona como un condicional inve
 @unless (empty($users))
     <ul>
         @foreach ($users as $user)
-            <li>{{ $user }}</li>
+            <li>{
+            { $user }
+            }</li>
         @endforeach
     </ul>
 @else
