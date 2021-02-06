@@ -6,9 +6,9 @@ Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dob
 
 ```html
 <li>
-````
-{{ $user }}
-```html
+
+{ $user }
+
 </li>
 ```
 
