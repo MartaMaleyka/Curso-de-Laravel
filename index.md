@@ -26,4 +26,4 @@ Razones por las cuales recomiendo Laravel.
     3.2. [Rutas](https://martamaleyka.github.io/Curso-de-Laravel/rutas) <br>
     3.3. [Vistas](https://martamaleyka.github.io/Curso-de-Laravel/vistas) <br>
     3.4. [Blade: motor de plantillas de laravel](https://martamaleyka.github.io/Curso-de-Laravel/blade) <br>
-    3.5. [Estructuras de control más comunes de Blade](https://martamaleyka.github.io/Curso-de-Laravel/blade) <br>
+    3.5. [Estructuras de control más comunes de Blade](https://martamaleyka.github.io/Curso-de-Laravel/estructurasdecontrol) <br>
