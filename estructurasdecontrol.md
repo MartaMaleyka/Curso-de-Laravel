@@ -16,10 +16,10 @@ Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dob
 
 Si queremos utilizar ciclos y estructuras condicionales, podemos utilizar directivas. Las directivas de Blade van precedidas por un arroba (@) y luego el nombre de la directiva:
 
-```iframe
+```php
 @foreach ($users as $user)
     <li>
-    {{ $user }}
+    ""{{ $user }}""
     </li>
 @endforeach
 ```
