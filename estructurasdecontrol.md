@@ -112,3 +112,4 @@ Además de @foreach, también podemos utilizar @for:
     }
 @endfor
 ```
+
