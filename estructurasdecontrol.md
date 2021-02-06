@@ -86,3 +86,29 @@ Blade también tiene la directiva @unless, que funciona como un condicional inve
     <p>No hay usuarios registrados.</p>
 @endunless
 ````
+### Directiva empty
+También podemos utilizar la directiva @empty que es una forma más corta de escribir @if (empty (...))
+```php
+@empty($users)
+    <p>No hay usuarios registrados.</p>
+@else
+    <ul>
+        @foreach ($users as $user)
+            <li>{
+            { $user }
+            }</li>
+        @endforeach
+    </ul>
+@endempty
+```
+### Directivo for
+
+Además de @foreach, también podemos utilizar @for:
+
+```php
+@for ($i = 0; $i < 10; $i++)
+    El valor actual es {
+    { $i }
+    }
+@endfor
+```
