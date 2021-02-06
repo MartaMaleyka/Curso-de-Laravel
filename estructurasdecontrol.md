@@ -19,7 +19,9 @@ Si queremos utilizar ciclos y estructuras condicionales, podemos utilizar direct
 ```php
 @foreach ($users as $user)
     <li>
-    ""{{ $user }}""
+    {
+    { $user }
+    }
     </li>
 @endforeach
 ```
