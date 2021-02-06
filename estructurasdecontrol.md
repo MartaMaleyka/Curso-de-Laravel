@@ -4,9 +4,9 @@
 
 Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dobles llaves {{ }}
 
-`
+```javascript
 <li>{{ $user }}</li>
-`
+```
 
 ## Ciclos y estructuras
 
