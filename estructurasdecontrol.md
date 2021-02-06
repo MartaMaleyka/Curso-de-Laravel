@@ -113,3 +113,6 @@ Además de @foreach, también podemos utilizar @for:
 @endfor
 ```
 
+Para ver mas directivas
+
+https://laravel.com/docs/8.x/blade#the-at-verbatim-directive
