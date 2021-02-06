@@ -7,7 +7,7 @@ Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dob
 ```php
 <li>
 
-{{ $user }}
+{{ $ user }}
 
 </li>
 ```
