@@ -13,6 +13,7 @@ Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dob
 ```
 Seria asi 
 
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/imprimir.png)
 
 
 ## Ciclos y estructuras
