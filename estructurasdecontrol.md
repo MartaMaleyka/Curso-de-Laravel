@@ -15,6 +15,7 @@ Seria asi
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/imprimir.PNG)
 
+Pero para propositos de que se muestre, lo estaré haciendo como se muestra arriba.
 
 ## Ciclos y estructuras
 
