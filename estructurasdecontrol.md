@@ -24,4 +24,15 @@ Si queremos utilizar ciclos y estructuras condicionales, podemos utilizar direct
     }
     </li>
 @endforeach
+
+```
+
+### Directiva if
+
+También podemos utilizar la directiva @if:
+
+```php
+@if (! empty($users))
+    ...
+@endif
 ```
