@@ -36,3 +36,14 @@ También podemos utilizar la directiva @if:
     ...
 @endif
 ```
+
+### Directiva if/else 
+
+La directiva @if puede ser utilizada junto con un bloque else (utilizando @else):
+```php
+@if (! empty($users))
+    ...
+@else
+    <p>No hay usuarios registrados.</p>
+@endif
+```
