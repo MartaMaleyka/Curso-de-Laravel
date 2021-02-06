@@ -3,6 +3,6 @@
 ## Imprimir variables
 
 Si queremos imprimir una variable, podemos hacerlo utilizando la sintaxis de dobles llaves {{ }}
-```html
+`´´html
 <li>{{ $user }}</li>
 ´´´
