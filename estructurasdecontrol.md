@@ -23,7 +23,3 @@ Si queremos utilizar ciclos y estructuras condicionales, podemos utilizar direct
     </li>
 @endforeach
 ```
-
-
-
-
