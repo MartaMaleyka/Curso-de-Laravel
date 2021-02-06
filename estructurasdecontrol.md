@@ -53,4 +53,14 @@ La directiva @if puede ser utilizada junto con un bloque else (utilizando @else)
 @endif
 ```
 
+## Directiva if/elseif/else
+
+Podemos utilizar la directiva @elseif, que como su nombre sugiere nos permite utilizar un bloque else if:
+@if (! empty($users))
+    ...
+@elseif ($users < 3)
+    <p>Hay menos de 3 usuarios registrados.</p>
+@else
+    <p>No hay usuarios registrados.</p>
+@endif
 
