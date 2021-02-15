@@ -1,3 +1,5 @@
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
+
 # Controladores
 
 ## ¿Qué son los controladores?
@@ -47,3 +49,4 @@ Para enlazar una ruta a un controlador pasamos como argumento el nombre del cont
 Route::get('/home', 'HomeController@index');
 ````
 
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
