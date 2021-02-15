@@ -9,6 +9,7 @@ Para crear un controlador vamos a la consola y luego a la carpeta del proyecto y
 ````
 php artisan make:controller PagesController
 ````
+Esto se guardara en la carpeta App\Http\Controllers
 
 ## Controladores basicos
 A continuación, se muestra un ejemplo de una clase de controlador básica:
