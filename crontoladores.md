@@ -19,10 +19,11 @@ class UserController extends Controller {
      * @param  int  $id
      * @return Response
      */
-    public function showProfile($id)
+    public function show()
     {
-        return view('user.profile', ['user' => User::findOrFail($id)]);
+        return view('home');
     }
 
 }
 ````
+
