@@ -9,7 +9,7 @@ En lugar de definir toda la lógica de manejo de solicitudes como cierres en arc
 Para crear un controlador vamos a la consola y luego a la carpeta del proyecto y ejecutamos el siguiente comando 
 
 ````
-php artisan make:controller PagesController
+php artisan make:controller HomeController
 ````
 Esto se guardara en la carpeta App\Http\Controllers
 
@@ -48,5 +48,41 @@ Para enlazar una ruta a un controlador pasamos como argumento el nombre del cont
 ````
 Route::get('/home', 'HomeController@index');
 ````
+
+## Resource Controller
+Los controladores de recursos son solo controladores de Laravel con todos los métodos para crear, leer, actualizar y eliminar un recurso (o un modelo). Puede crear un controlador de recursos con este comando artisan:
+
+````
+php artisan make:controller UserController --resource
+````
+
+Este comando creará una clase llamada UserController.php en su directorio de controladores y tendrá que crear automáticamente 7 métodos, index, show, create, store, edit, update, destroy. Todos estos métodos estarán vacíos; deberá completarlos con la lógica de cada acción. 
+
+### Ruta de recursos de Laravel
+Laravel también proporciona una manera fácil de hacer rutas para los controladores de recursos usando:
+
+
+Route::resource('users', 'UserController');
+
+//  GET   /user     
+UserController@index 
+
+//  GET    /user/create     
+UserController@create 
+
+//  POST   /user            
+UserController@store 
+
+//  GET    /user/{id}       
+UserController@show 
+
+//  GET    /user/{id}/edit  
+UserController@edit 
+
+//  PUT    /user/{id}       
+UserController@update 
+
+//  DELETE /user/{id}       
+UserController@destory
 
 [<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
