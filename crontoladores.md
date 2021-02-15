@@ -38,3 +38,8 @@ class HomeController extends Controller {
 ````
 
 Luego vamos a la carpeta routes, al archivo web.php
+
+````
+Route::get('/home', 'HomeController@index');
+````
+
