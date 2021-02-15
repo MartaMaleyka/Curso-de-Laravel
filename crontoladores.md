@@ -11,7 +11,7 @@ A continuación, se muestra un ejemplo de una clase de controlador básica:
 
 use App\Http\Controllers\Controller;
 
-class UserController extends Controller {
+class HomeController extends Controller {
 
     /**
      * Show the profile for the given user.
@@ -19,7 +19,7 @@ class UserController extends Controller {
      * @param  int  $id
      * @return Response
      */
-    public function show()
+    public function index()
     {
         return view('home');
     }
