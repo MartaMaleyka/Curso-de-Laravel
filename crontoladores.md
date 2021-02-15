@@ -39,6 +39,10 @@ class HomeController extends Controller {
 
 Luego vamos a la carpeta routes, al archivo web.php
 
+Para enlazar una ruta a un controlador pasamos como argumento el nombre del controlador y del método que queremos enlazar, separados por un @. En este caso queremos enlazar la ruta /home al método index del controlador HomeController:
+
+
+
 ````
 Route::get('/home', 'HomeController@index');
 ````
