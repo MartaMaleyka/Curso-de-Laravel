@@ -70,7 +70,9 @@ Ahora haremos uso de la función request() de la clase Illuminate\Http\Request q
    <body>
       <pre>
       {{
+      
       request() 
+      
       }}
       </pre>
      <nav>
