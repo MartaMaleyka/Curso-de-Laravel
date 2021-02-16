@@ -90,7 +90,7 @@ La salida:
 
 Para hacer la salida en formato JSON usaremos la funcion dump()
 
-````
+````html
 {{ dump(request()) }}
 ````
 
@@ -100,7 +100,7 @@ La salida:
 
 Ahora usaremos el metodo path, que devuelve la información de la ruta de la solicitud. Entonces, si la solicitud entrante está dirigida a http://example.com/foo/bar, el pathmétodo devolverá foo/bar:
 
-````
+````html
 {{ request()->path() }}
 ````
 
