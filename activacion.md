@@ -189,5 +189,3 @@ Haciendo uso del identificador ternario "?" que es una forma abreviada de la sen
 </html>
 ````
 
-
-
