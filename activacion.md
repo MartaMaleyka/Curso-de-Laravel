@@ -23,6 +23,7 @@ Regresaremos al archivo master.blade.php
 
 Ahora para activar el link haremos lo siguiente:
 1. insertaremos una clase en uno de las etiquetas <li>
+
 2. Haremos una inserción de codigo css en una etiqueta <style>
    
 ```html
