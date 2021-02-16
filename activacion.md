@@ -50,4 +50,4 @@ Ahora para activar el link haremos lo siguiente:
 </html>
 ```
 
-![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS1.png)
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS1.PNG)
