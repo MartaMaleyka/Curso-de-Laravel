@@ -69,11 +69,11 @@ Ahora haremos uso de la función request() de la clase Illuminate\Http\Request q
    </head>
    <body>
       <pre>
-      {{
-      
+      {
+      {
       request() 
-      
-      }}
+      }
+      }
       </pre>
      <nav>
       <ul>
