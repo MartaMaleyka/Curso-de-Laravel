@@ -129,7 +129,7 @@ Usaremos este metodo para identificar las rutas de la siguiente manera
         }"><a href="/">Home </a></li>
 ````
 Haciendo uso del identificador ternario "?" que es una forma abreviada de la sentencia if else que usamos para las decisiones en PHP (y en otros lenguajes de programación), usarla nos ayuda a crear código más limpio y fácil de entender y además nos ayuda a escribir código más rápido por que hay menos caracteres que escribir.
-ç
+<code>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -157,5 +157,5 @@ Haciendo uso del identificador ternario "?" que es una forma abreviada de la sen
 </body>
 </html>
 
-
+</code>
 
