@@ -88,3 +88,8 @@ La salida:
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS2.PNG)
 
+Para hacer la salida en formato JSON usaremos la funcion dump()
+
+````
+{{ dump(request()) }}
+````
