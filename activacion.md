@@ -97,3 +97,13 @@ Para hacer la salida en formato JSON usaremos la funcion dump()
 La salida:
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS3.PNG)
+
+Ahora usaremos el metodo path, que devuelve la información de la ruta de la solicitud. Entonces, si la solicitud entrante está dirigida a http://example.com/foo/bar, el pathmétodo devolverá foo/bar:
+
+````
+{{ request()->path() }}
+````
+
+SALIDA
+
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS4.PNG)
