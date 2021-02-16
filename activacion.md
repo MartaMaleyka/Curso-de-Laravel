@@ -107,3 +107,11 @@ Ahora usaremos el metodo path, que devuelve la información de la ruta de la sol
 SALIDA
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS4.PNG)
+
+
+Haremos uso del metodo routeIs(), que puede determinar si la solicitud entrante coincide con una ruta con nombre, y devuekve un valor booleano :
+
+````
+{{ request()->routeIs("home") }}
+````
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS5.PNG)
