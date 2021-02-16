@@ -48,5 +48,6 @@ Ahora para activar el link haremos lo siguiente:
       @yield('content')
    </body>
 </html>
-````
+```
 
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS1.png)
