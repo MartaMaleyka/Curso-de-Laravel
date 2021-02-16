@@ -84,3 +84,7 @@ Ahora haremos uso de la función request() de la clase Illuminate\Http\Request q
 </html>
 ```
 
+La salida:
+
+![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS2.PNG)
+
