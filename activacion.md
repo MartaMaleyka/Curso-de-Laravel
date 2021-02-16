@@ -53,3 +53,7 @@ Ahora para activar el link haremos lo siguiente:
 La salida:
 
 ![Image](https://martamaleyka.github.io/Curso-de-Laravel/Imagenes/CSS1.PNG)
+
+Ahora haremos uso de la función request() de la clase Illuminate\Http\Request que proporciona una clase orientada a objetos para interactuar con la solicitud HTTP actual que está manejando su aplicación, así como para recuperar la entrada, las cookies y los archivos que se enviaron con la solicitud.
+
+
