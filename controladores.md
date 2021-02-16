@@ -177,9 +177,9 @@ class UserController extends Controller
 
 Este método creará las 7 rutas necesarias para acceder a cada acción desde el navegador. Puede personalizar esto para crear solo ciertas rutas que necesita o dejar las que no necesita así.
 
-
+````
 Route::resource('user', 'UserController')->only(['index', 'show']); 
 Route::resource('user', 'UserController')->except(['create', 'store', 'update', 'destroy']);
-
+````
 
 [<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
