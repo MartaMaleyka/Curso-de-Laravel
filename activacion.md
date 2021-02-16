@@ -1,3 +1,6 @@
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
+
+
 # Activación de links de navegación
 
 Regresaremos al archivo master.blade.php 
@@ -189,3 +192,4 @@ Haciendo uso del identificador ternario "?" que es una forma abreviada de la sen
 </html>
 ````
 
+[<<<<-----Regresar al indice](https://martamaleyka.github.io/Curso-de-Laravel/index) 
