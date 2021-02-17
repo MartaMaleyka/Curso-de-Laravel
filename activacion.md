@@ -97,13 +97,9 @@ La salida:
 
 Para hacer la salida en formato JSON usaremos la funcion dump()
 
-````html
-{
-{ 
-dump(request())
-}
-}
-````
+<pre>
+{{ dump(request())}}
+</pre>
 
 La salida:
 
